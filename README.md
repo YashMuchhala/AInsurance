@@ -5,7 +5,7 @@ An implementation of our research project on [Categorizing Driving Patterns base
 ### Implementation screenshots for the first part of the mentioned paper -
 
 Step 1: Fill the form
-![alt text](https://github.com/yashmuchhala/AInsurance/images/ss1.png "Screenshot 1")
+![Screenshot 1](https://raw.githubusercontent.com/yashmuchhala/AInsurance/master/images/ss1.png "Screenshot 1")
 
 Step 2: Done. Get your initial quote from our machine learning model.
-![alt text](https://github.com/yashmuchhala/AInsurance/images/ss2.png "Screenshot 2")
+![Screenshot 2](https://raw.githubusercontent.com/yashmuchhala/AInsurance/master/images/ss2.png "Screenshot 2")
