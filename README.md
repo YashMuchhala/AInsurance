@@ -1,4 +1,4 @@
-# AInsurance - Machine Learning To Determine Insurance Premiums
+# AInsurance: Machine Learning To Determine Insurance Premiums
 
 An implementation of our research project on [Categorizing Driving Patterns based on Telematics Data Using Supervised and Unsupervised Learning](https://ieeexplore.ieee.org/document/9120976)
 
